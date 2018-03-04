@@ -1,0 +1,69 @@
+$font-stack: 'standard_bookregular', Arial, Helvetica, sans-serif;
+$font-size: 20px;
+$gray: #C0C5C8;
+
+body {
+  font-family: $font-stack;
+  font-size: $font-size;
+  line-height: 1.3;
+  background: $gray;
+  text-rendering: optimizeLegibility;
+  margin: 1em;
+}
+
+b, strong,
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+}
+
+b, strong {
+  background: white;
+  display: inline-block;
+  padding: 0.25em;
+  border-radius: 4px;
+}
+
+a {
+  color: black;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* HEADER */
+
+a.site-title {
+  text-decoration: none;
+}
+
+/* HOME */
+
+ul.post-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+h2.post-title {
+  font-size: 2em;
+  margin-top: 0;
+}
+
+/* FOOTER */
+
+nav {
+  margin-top: 1em;
+}
+
+footer {
+  border-top: 1px solid black;
+  margin-top: 8em;
+  padding-top: 1em;
+}
+
+/* INDIVIDUAL POST */
+
+a.home {
+  float: right;
+}

@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 b, strong {
   background: white;
   display: inline-block;
-  padding: 0.25em;
+  padding: 0.25em 0.5em 0.15em;
   border-radius: 4px;
 }
 
@@ -48,6 +48,12 @@ ul.post-list {
 h2.post-title {
   font-size: 2em;
   margin-top: 0;
+}
+
+.excerpt {
+  font-size: 2em;
+  margin-top: 0;
+  margin-bottom: 2em;
 }
 
 /* FOOTER */

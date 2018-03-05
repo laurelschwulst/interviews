@@ -4,7 +4,8 @@ title:  "Interview with Michael Wang"
 date:   2018-02-17 20:53:25 -0500
 categories: interview
 author: Danielle Lotridge
-excerpt: testing123
+tags: startup, reconnecting
+excerpt: I can craft an illusion in somebody else’s mind where they think that something’s there but it’s actually not.
 ---
 
 # Interview with Michael Wang

@@ -4,6 +4,8 @@ title:  "Interview (or a casual roommate conversation) with Kristoffer Ala-Ketol
 date:   2018-02-26 20:53:25 -0500
 categories: interview
 author: Jinu Hong
+tags: sculpture
+excerpt: Whenever someone tries to be objective about their work, it feels alienating. If the gesture of making is already there, then why hide it? Why hide that it’s me who makes the gesture?
 ---
 
 # Interview (or a casual roommate conversation) with Kristoffer Ala-Ketola

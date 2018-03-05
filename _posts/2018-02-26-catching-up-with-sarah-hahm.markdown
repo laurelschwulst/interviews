@@ -4,6 +4,8 @@ title:  "Catching up with Sarah Hahm"
 date:   2018-02-26 20:53:25 -0500
 categories: interview
 author: Daniel Lee
+tags: theater, interdisciplinary, reconnecting
+excerpt: Theatre desires to be collaborative. You can’t do a show if you don’t have an understanding of visuals. You can’t do a show if you don’t have an understanding of tempo and pace. A work becomes strong when you translate ideas through a variety of artistic languages.
 ---
 
 # Catching up with Sarah Hahm

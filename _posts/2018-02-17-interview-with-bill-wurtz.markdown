@@ -4,7 +4,8 @@ title:  "Interview with Bill Wurtz"
 date:   2018-02-17 20:53:25 -0500
 categories: interview
 author: Laurel Schwulst
-excerpt: testing123
+tags: imaginary, interdisciplinary
+excerpt: i realized that if there really is infinite creative potential, then you can literally just start with anything, like rabbit snakes
 ---
 
 # Interview with Bill Wurtz
@@ -13,7 +14,7 @@ excerpt: testing123
 
 ## About
 
-![Bill Wurtz](https://laurelschwulst.github.io/interactive/images/bill-wurtz.png)
+![Bill Wurtz](/images/bill-wurtz.png)
 *[Link to video](https://www.youtube.com/watch?v=bSDYt9nVpWc)*
 
 **It's hard to describe Bill Wurtz despite the abundance of material available on his [website](http://billwurtz.com). Some days, [it’s crazy and it’s raining](https://www.youtube.com/watch?v=Dfyswlszyhg). On others, [the history of the entire world, i guess](https://www.youtube.com/watch?v=xuCn8ux2gbs) can be told in under 20 minutes.**

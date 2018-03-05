@@ -2,16 +2,16 @@
 
 @font-face {
   font-family: 'standard_bookregular';
-  src: url('/fonts/standard-book-webfont.woff2') format('woff2'),
-       url('/fonts/standard-book-webfont.woff') format('woff');
+  src: url('{{ site.baseurl }}/fonts/standard-book-webfont.woff2') format('woff2'),
+       url('{{ site.baseurl }}/fonts/standard-book-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'standard_bookitalic';
-  src: url('/fonts/standard-book-italic-webfont.woff2') format('woff2'),
-       url('/fonts/standard-book-italic-webfont.woff') format('woff');
+  src: url('{{ site.baseurl }}/fonts/standard-book-italic-webfont.woff2') format('woff2'),
+       url('{{ site.baseurl }}/fonts/standard-book-italic-webfont.woff') format('woff');
   font-weight: normal;
   font-style: italic;
 }

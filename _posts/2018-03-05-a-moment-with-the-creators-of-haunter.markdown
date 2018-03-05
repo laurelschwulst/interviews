@@ -1,9 +1,12 @@
+---
 layout: post
 title:  "A moment with creators of Haunter"
 date:   2018-02-17 20:53:25 -0500
 categories: interview
 author: Lauren Chun
 tags: fiction, app, startup
+
+---
 
 # Interview with the two creators of Haunter.
 

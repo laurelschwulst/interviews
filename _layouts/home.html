@@ -19,7 +19,7 @@ layout: default
           • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ post.author }}</span></span>
         {% endif %}</p>
         <h2 class="post-title">
-          <a class="post-link" href="{{ base }}{{ post.url | relative_url }}">
+          <a class="post-link" href="{{ site.baseurl }}{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h2>

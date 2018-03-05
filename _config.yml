@@ -1,7 +1,7 @@
 title: Interviews
 email: laurel@linkedbyair.net
 description: >- # this means to ignore newlines until "baseurl:"
-  <a href="/index.html">Interviews</a> conducted as part of Art369b: Interactive Design and the Internet at Yale.
+  Interviews conducted as part of <a href="http://spring2018.veryinteractive.net" target="_blank">Art369b: Interactive Design and the Internet</a> at Yale.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

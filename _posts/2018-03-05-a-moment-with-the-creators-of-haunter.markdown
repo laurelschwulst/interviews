@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "A moment with creators of Haunter"
-date:   2018-03-04 20:53:25 -0500
+date:   2018-03-05 2:53:25 -0500
 categories: interview
 author: Lauren Chun
 tags: fiction, app, startup
-
+excerpt: Before we developed Haunter, students had mostly relied on Yik Yak as its tool of choice for campus-wide information, and after that, Instagram became a popular outlet for stories like these, but to my knowledge, Haunter was the first app specifically developed to share the stories of victims.
 ---
 
 # Interview with the two creators of Haunter.

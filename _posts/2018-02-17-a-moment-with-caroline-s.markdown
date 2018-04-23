@@ -5,7 +5,7 @@ date:   2018-02-17 20:53:25 -0500
 categories: interview
 author: Rosa Chung
 excerpt: Corn, for example, started out as a little grass. It evolved, and we evolved with it. It’s now a huge crop that dominates industry, food production, and even gasoline today. But it started as a small plant that humans noticed and decided to cultivate.
-tags: plants, interdisciplinary
+tags: plants, interdisciplinary, chocolate
 ---
 
 # A moment with Caroline S.

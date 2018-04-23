@@ -4,8 +4,8 @@ title:  "Interview with Bill Wurtz"
 date:   2018-02-17 20:53:25 -0500
 categories: interview
 author: Laurel Schwulst
-tags: imaginary, interdisciplinary
 excerpt: i realized that if there really is infinite creative potential, then you can literally just start with anything, like rabbit snakes
+tags: music, fiction, interdisciplinary
 ---
 
 # Interview with Bill Wurtz

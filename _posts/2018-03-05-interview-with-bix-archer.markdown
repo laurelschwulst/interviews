@@ -5,6 +5,7 @@ date:   2018-03-05 2:53:25 -0500
 categories: interview
 author: Jacob Brussel Faria
 excerpt: I probably could have had a better answer to "Why should we paint?"<br><br>It engages the body.
+tags: painting, interdisciplinary
 ---
 
 # Interview with Bix Archer

@@ -5,6 +5,7 @@ date:   2018-03-05 2:53:25 -0500
 categories: interview
 author: Zack Robbins
 excerpt: After you watch the movie you have some kind of experience. You are still affected by the film afterwords. This kind of movie makes me appreciate my life a little more. It maybe makes me more sensitive to tiny things. Or even bigger things other than myself. It’s good for my mental health.
+tags: film
 ---
 
 # Hyung Cho on Slow Films

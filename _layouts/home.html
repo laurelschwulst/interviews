@@ -2,6 +2,24 @@
 layout: default
 ---
 
+{% capture all_tags %}
+  {% for post in site.posts %}{{ post.tags }},{% endfor %}
+{% endcapture %}
+
+{% assign sorted_tags = all_tags | split: ',' | uniq %}
+
+<div id="tag-list">
+<b>TAG INDEX</b><br /><br />
+{% for tag in sorted_tags %}
+  {{ tag }}<br />
+{% endfor %}
+
+{% include footer.html %}
+
+</div>
+
+<br /><br /><br /><br />
+
 <div class="home">
   {% if page.title %}
     <h1 class="site-title">{{ page.title }}</h1>
@@ -23,6 +41,7 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h2>
+        Tagged: {{ post.tags }}<br /><br />
         {% if post.excerpt %}
           <div class="excerpt">
             {{ post.excerpt }}
